@@ -1,6 +1,6 @@
 
 <p align="center"> 
-<a href="#"> <img width="20%" src="https://i.imgur.com/QUU2DTQ.jpeg"  /></a>
+<a href="#"> <img width="20%" src="https://i.imgur.com/QY650rV.jpeg"  /></a>
 
 </p>
 
