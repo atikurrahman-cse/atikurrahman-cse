@@ -12,7 +12,7 @@
 
 ## 🍀About Me
 
-- 💻 I’m currently working on **Data Analyst**
+- 💻 I’m currently working on **Data Analysis**
 <!--
 - 🌱 I’m currently learning **Machine Learning & Deep Learning**
 -->
